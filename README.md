@@ -1,7 +1,7 @@
 Lua_Mars-Invaders
 =================
 
-This game is programmed with Lua language and LOVE2D 0.8.0 library for games in Lua.
+This game is programmed with Lua language and LOVE2D 0.9.0 library for games in Lua.
 
 To test it you just need to head to LOVE2D webpage, download it (it is free and has a very good guide to how to install it) and click and drop the folder with the game (must be the root) into the love.exe.
 
@@ -9,8 +9,8 @@ To test it you just need to head to LOVE2D webpage, download it (it is free and 
 
 Keys:
 
-Left Arrow / a: Move player to the left
-Right Arrow / d: Move it to the right
+Left Arrow / a: Move player to the left | 
+Right Arrow / d: Move it to the right | 
 Return / z: Shoot
 
 **
@@ -28,8 +28,8 @@ Para probar el juego sólo necesitas ir a la página de LOVE2D, decargártelo (e
 
 Teclas:
 
-Flecha Izquierda / a : Mover jugador hacia la izquierda
-Flecha Derecha / d: Moverlo hacia la derecha
+Flecha Izquierda / a : Mover jugador hacia la izquierda | 
+Flecha Derecha / d: Moverlo hacia la derecha | 
 Return / z: Disparar
 
 **
