@@ -8,15 +8,13 @@ To test it you just need to head to LOVE2D webpage, download it (it is free and 
 **
 
 Keys:
-
-Left Arrow / a: Move player to the left 
-Right Arrow / d: Move it to the right 
+Left Arrow / a: Move player to the left
+Right Arrow / d: Move it to the right
 Return / z: Shoot
 
 **
 
 Up-coming:
-
 Actual damage to entities
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -28,13 +26,11 @@ Para probar el juego sólo necesitas ir a la página de LOVE2D, decargártelo (e
 **
 
 Teclas:
-
-Flecha Izquierda / a : Mover jugador hacia la izquierda 
+Flecha Izquierda / a : Mover jugador hacia la izquierda
 Flecha Derecha / d: Moverlo hacia la derecha
 Return / z: Disparar
 
 **
 
 Próximamente:
-
 Daño de verdad a entidades
