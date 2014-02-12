@@ -39,7 +39,7 @@ Return - z: Disparar
 **
 
 Características:
-Dispara, se mueve, hace daños a los enemigos, imágenes para el jugador/los enemigos, infraestructura para niveles diferentes.
+Dispara, se mueve, daña a los enemigos, imágenes para el jugador/los enemigos, infraestructura para niveles diferentes.
 
 
 Próximamente:
