@@ -65,7 +65,7 @@ end
 function checkBulletCollisionPlayer()
 	for b = 1, #bts["player"] do
 		for m = 1, #marsList do	
-			if insideBox( marsList[m].x - marsList[m].w/2, marsList[m].y - marsList[m].h/2, bts["player"][b].x, bts["player"][b].y, marsList[m].w, marsList[m].h) then
+			if insideBox( bts["player"][b].x, bts["player"][b].y, marsList[m].x - marsList[m].w/2, marsList[m].y - marsList[m].h/2, marsList[m].w, marsList[m].h) then
 				marsList[m].life = marsList[m].life - bts["player"][b].dmg
 				table.insert(bRemovalp, b)
 			end

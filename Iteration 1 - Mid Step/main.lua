@@ -36,7 +36,7 @@ function love.keypressed(key, unicode)
 	if key == "escape" then
       love.event.push("quit")   -- actually causes the app to quit
 	elseif key == "return" or key == "z" then
-	  addBullet( "player", player.mov.x - imageBank.player.w, player.mov.y - imageBank.player.h, "1" )
+	  addBullet( "player", player.mov.x, player.mov.y - player.h/2, "1" )
 	end
 	
 end
