@@ -15,8 +15,12 @@ Return - z: Shoot
 
 **
 
+Features:
+Shoots, moves, damages enemies, images for player/enemies, support for different levels.
+
+
 Up-coming:
-Actual damage to entities
+Enemie "AI"
 
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -34,5 +38,9 @@ Return - z: Disparar
 
 **
 
+Características:
+Dispara, se mueve, hace daños a los enemigos, imágenes para el jugador/los enemigos, infraestructura para niveles diferentes.
+
+
 Próximamente:
-Daño de verdad a entidades
+"IA" de los enemigos
