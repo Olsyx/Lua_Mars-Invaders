@@ -17,10 +17,10 @@ Return - z: Shoot
 
 Features:
 Shoots, moves, damages enemies, images for player/enemies, support for different levels.
-
+Enemies do move and shoot the player.
 
 Up-coming:
-Enemie "AI"
+---
 
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -40,7 +40,8 @@ Return - z: Disparar
 
 Características:
 Dispara, se mueve, daña a los enemigos, imágenes para el jugador/los enemigos, infraestructura para niveles diferentes.
+Los enemigos disparan y se mueven.
 
 
 Próximamente:
-"IA" de los enemigos
+---
