@@ -42,8 +42,8 @@ Return - z: Disparar
 
 Características:
 El jugador: dispara, se mueve, hace daño a los enemigos, tiene su propio char.
-The enemies: disparan, se mueven, hacen daño al jugador, tienen sus propios chars. El OVNI ha sido implementado y funciona correctamente.
-The levels: fáciles de añadir y permiten toda característica posible. Desde regalar corazones extra al jugador hasta penalizarlo, permitiendo los búnkers y el OVNI o no. 
+Los enemigos disparan, se mueven, hacen daño al jugador, tienen sus propios chars. El OVNI ha sido implementado y funciona correctamente.
+Los niveles: fáciles de añadir y permiten toda característica posible. Desde regalar corazones extra al jugador hasta penalizarlo, permitiendo los búnkers y el OVNI o no. 
 
 Próximamente:
 Un Menú.
