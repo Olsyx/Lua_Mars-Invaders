@@ -1,0 +1,2 @@
+@ECHO OFF
+start "" "%PROGRAMFILES(x86)%\LOVE\LOVE2D 090\love.exe" .
