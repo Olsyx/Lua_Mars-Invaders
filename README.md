@@ -16,11 +16,13 @@ Return - z: Shoot
 **
 
 Features:
-Shoots, moves, damages enemies, images for player/enemies, support for different levels.
-Enemies do move and shoot the player.
+The player: shoots, moves, damages enemies, has its own char.
+The enemies: move, shoot, damage the player, have their own chars. The OVNI has been implemented and works properly.
+The levels: are easily added and allow every possible characteristic. From gifting the player with extra hearts to penalizing it, allowing bunkers or the OVNI.
+
 
 Up-coming:
----
+A Menu.
 
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -39,9 +41,9 @@ Return - z: Disparar
 **
 
 Características:
-Dispara, se mueve, daña a los enemigos, imágenes para el jugador/los enemigos, infraestructura para niveles diferentes.
-Los enemigos disparan y se mueven.
-
+El jugador: dispara, se mueve, hace daño a los enemigos, tiene su propio char.
+The enemies: disparan, se mueven, hacen daño al jugador, tienen sus propios chars. El OVNI ha sido implementado y funciona correctamente.
+The levels: fáciles de añadir y permiten toda característica posible. Desde regalar corazones extra al jugador hasta penalizarlo, permitiendo los búnkers y el OVNI o no. 
 
 Próximamente:
----
+Un Menú.
