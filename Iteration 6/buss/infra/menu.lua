@@ -59,6 +59,7 @@ function buttonPressed( button , Mx , My )
 		elseif State == "Game" then
 			pressed = whichButtonPressed( "game" , Mx , My )
 			if pressed == "Menu" then
+				marsList = {}
 				State = "Menu"
 			end
 		end
