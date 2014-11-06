@@ -20,7 +20,7 @@ How to use it
 Each iteration holds the code for what was developed during that iteration. This means, each one of them holds a copy of the game during various stages. As of now, the game is finished. You can find it completed inside the "Iteration 6" folder.
 
 The only thing you need is [LÖVE2D](http://love2d.org/). Just download the v.0.8.0 and follow the steps.
-To execute it, click and drag the root folder of the game to the LÖVE2D.exe icon. If this does not work, check [LÖVE2D webpage](http://love2d.org/) for other methods.
+To execute it, click and drag the root folder of the game to the LÖVE2D.exe icon. If this does not work, check [LÖVE2D webpage](http://love2d.org/) for other methods.<br/>
 <i>NOTE: Newer versions might not work properly for this game.</i>
 
 
