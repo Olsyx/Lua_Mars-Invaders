@@ -13,6 +13,7 @@ Controls
 Left Arrow - a: Move player to the left<br/>
 Right Arrow - d: Move it to the right<br/> 
 Return - z: Shoot<br/>
+t - o: Debugging keys<br/>
 
 
 How to use it
