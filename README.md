@@ -1,50 +1,29 @@
 Lua_Mars-Invaders
-=================
+=============
+Mars Invaders game was programmed with Lua and LÖVE2D 0.8.0 library following the iterative development model.
+I programmed it with the intention of teaching others how to program in Lua and LÖVE2D while having fun with it.
 
-This game is programmed with Lua language and LOVE2D 0.9.0 library for games in Lua.
+![Mars Invaders screenshot](image 1.png)
+![Mars Invaders screenshot2](image 2.png)
 
-To test it you just need to head to LOVE2D webpage, download it (it is free and has a very good guide to how to install it) and click and drop the folder with the game (must be the root) into the love.exe.
+<i>NOTE: The game is finished as of now, being Iteration 6 the one to hold the finished program.</i>
 
-**
-
-Keys:
-
-Left Arrow - a: Move player to the left | 
-Right Arrow - d: Move it to the right | 
-Return - z: Shoot
-
-**
-
-Features:
-The player: shoots, moves, damages enemies, has its own char.
-The enemies: move, shoot, damage the player, have their own chars. The OVNI has been implemented and works properly.
-The levels: are easily added and allow every possible characteristic. From gifting the player with extra hearts to penalizing it, allowing bunkers or the OVNI.
+Controls
+-----------------------------------------------------
+Left Arrow - a: Move player to the left<br/>
+Right Arrow - d: Move it to the right<br/> 
+Return - z: Shoot<br/>
 
 
-Up-coming:
-A Menu.
+How to use it
+-----------------------------------------------------
+Each iteration holds the code for what was developed during that iteration. This means, each one of them holds a copy of the game during various stages. As of now, the game is finished. You can find it completed inside the "Iteration 6" folder.
 
-----------------------------------------------------------------------------------------------------------------------
+The only thing you need is [LÖVE2D](http://love2d.org/). Just download the v.0.8.0 and follow the steps.
+To execute it, click and drag the root folder of the game to the LÖVE2D.exe icon. If this does not work, check [LÖVE2D webpage](http://love2d.org/) for other methods.
+<i>NOTE: Newer versions might not work properly for this game.</i>
 
-Este juego ha sido programado con el lenguaje Lua y la librería LOVE2D 0.8.0 para juegos en Lua.
 
-Para probar el juego sólo necesitas ir a la página de LOVE2D, decargártelo (es gratis y tiene una guía muy sencilla sobre como instalarlo), y coger y arrastrar la carpeta raíz del juego sobre love.exe.
-
-**
-
-Teclas:
-
-Flecha Izquierda - a : Mover jugador hacia la izquierda | 
-Flecha Derecha - d: Moverlo hacia la derecha | 
-Return - z: Disparar
-
-**
-
-Características:
-El jugador: dispara, se mueve, hace daño a los enemigos, tiene su propio char.
-Los enemigos disparan, se mueven, hacen daño al jugador, tienen sus propios chars. El OVNI ha sido implementado y funciona correctamente.
-Los niveles: fáciles de añadir y permiten toda característica posible. Desde regalar corazones extra al jugador hasta penalizarlo, permitiendo los búnkers y el OVNI o no. 
-
-Próximamente:
-Un Menú.
-
+License
+-----------------------------------------------------
+"Space Invaders" was originally developed by Taito Corporation and designed by Toshihiro Nishikado. No copyright or IP infringement intended. The code in this redo is subjected to the LPGL v3 license.
