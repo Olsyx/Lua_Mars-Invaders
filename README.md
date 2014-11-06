@@ -1,4 +1,4 @@
-Lua_Mars-Invaders
+Mars Invaders
 =============
 Mars Invaders game was programmed with Lua and LÖVE2D 0.8.0 library following the iterative development model.
 I programmed it with the intention of teaching others how to program in Lua and LÖVE2D while having fun with it.
